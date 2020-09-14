@@ -1,0 +1,1 @@
+sqlcmd -S %USERDOMAIN%\SQLEXPRESS -i "SQL2016.sql" > SQL2016.txt
